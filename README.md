@@ -62,7 +62,7 @@ If the colours look wrong (see the repo for details), do the following:
  
  ### TODOs
  
- - [ ] Install [black for vim])(https://black.readthedocs.io/en/stable/editor_integration.html#vim) and configure it to format on save
+ - [ ] Install [black for vim](https://black.readthedocs.io/en/stable/editor_integration.html#vim) and configure it to format on save
   - Current requires python3.6+ support which macos does not ship with
   - Also does not work easily inside a virtual environment
  - [ ] Install some sort of jump-to-definition tool
