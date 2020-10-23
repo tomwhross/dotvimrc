@@ -1,0 +1,2 @@
+# dotvimrc
+My .vimrc file
