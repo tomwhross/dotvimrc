@@ -67,4 +67,5 @@ If the colours look wrong (see the repo for details), do the following:
    - Also does not work easily inside a virtual environment
  - [ ] Install some sort of jump-to-definition tool
  - [ ] Build a custom [status line](https://shapeshed.com/vim-statuslines/)
+ - [ ] Customize ignore for ag (the silver searcher)
  
