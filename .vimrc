@@ -51,6 +51,7 @@ syntax on
 set background=dark
 
 " Turn on Solarized colour scheme
+" https://github.com/lifepillar/vim-solarized8
 colorscheme solarized8
 
 " Disable the default Vim startup message.
