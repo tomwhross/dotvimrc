@@ -2,7 +2,9 @@
 My .vimrc file
 
 ## Instructions
-My .vimrc starts with a copy of MIT's Missing Semester [.vimrc file](basic vimrc). First download it, then move it to the home directory and rename it from `vimrc` to `.vimrc`
+My .vimrc starts with a copy of MIT's Missing Semester [.vimrc file](https://missing.csail.mit.edu/2020/files/vimrc).
+
+First download it, then move it to the home directory and rename it from `vimrc` to `.vimrc`, e.g.
 
 ```
 $ mv ~/Downloads/vimrc ~/.vimrc
