@@ -66,5 +66,5 @@ If the colours look wrong (see the repo for details), do the following:
    - Current requires python3.6+ support which macos does not ship with
    - Also does not work easily inside a virtual environment
  - [ ] Install some sort of jump-to-definition tool
- - [ ] Build a custom [status line](https://sanctum.geek.nz/arabesque/vi-mode-in-tmux/)
+ - [ ] Build a custom [status line](https://shapeshed.com/vim-statuslines/)
  
