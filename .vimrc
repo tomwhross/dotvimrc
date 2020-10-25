@@ -1,4 +1,9 @@
+" Based mainly on the .vimrc from MIT's Missing Semester:
+" https://missing.csail.mit.edu/2020/files/vimrc
+" See this repo's readme for details
+
 " Comments in Vimscript start with a `"`.
+
 " Some inspirations
 " https://github.com/jvns/vimconfig/blob/master/vimrc
 
