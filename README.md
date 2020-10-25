@@ -47,12 +47,13 @@ If the colours look wrong (see the repo for details), do the following:
  ```
  
  Install ack and optionally install the silver searcher (ag)
-  - If ag is available, the `:Ack` command in vim will use it
+  - If rg is available, the `:Ack` command in vim will use it
     - Otherwise it will default to ack
  
  ```
  $ brew install ack
  $ brew install the_silver_searcher
+ $ brew install ripgrep
  ```
  
  Finally, open vim and install the plugins (using vim-plug)
