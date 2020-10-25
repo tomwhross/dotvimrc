@@ -46,6 +46,8 @@ If the colours look wrong (see the repo for details), do the following:
  $ sh ~/.vim/pack/themes/opt/solarized8/scripts/solarized8.sh
  ```
  
+ It's a good idea to add the above to `~/.bash_profile`
+ 
  Install ack and optionally install the silver searcher (ag)
   - If rg is available, the `:Ack` command in vim will use it
     - Otherwise it will default to ack
