@@ -72,7 +72,7 @@ If the colours look wrong (see the repo for details), do the following:
    - Also does not work easily inside a virtual environment
  - [ ] Install some sort of jump-to-definition tool
  - [ ] Build a custom [status line](https://shapeshed.com/vim-statuslines/)
- - ~[x] Customize ignore for ag (the silver searcher)~
+ - [x] ~Customize ignore for ag (the silver searcher)~
     - By default it will ignore files in .gitignore
     - If needed, use a .ignore file to ignore files that you don't want git to ignore
     - No longer needed, rg takes care of this
