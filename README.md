@@ -1,6 +1,9 @@
 # dotvimrc
 My .vimrc file
 
+## Deprecation Notice
+This repository is no longer maintained in favour of the much easier to setup and maintain [dotfiles](https://github.com/tomwhross/dotfiles) repo, but I am leaving it up as it is still instructive and serves as a bit of history in my journey to get my dotfiles under control. 
+
 ## Instructions
 My .vimrc starts with a copy of MIT's Missing Semester [.vimrc file](https://missing.csail.mit.edu/2020/files/vimrc).
 
